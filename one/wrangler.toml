@@ -1,0 +1,6 @@
+name = "one"
+main = "src/index.ts"
+compatibility_date = "2023-03-03"
+kv_namespaces = [
+  { binding = "MY_BINDING", id = "XXX",  preview_id = "YYY" }
+]
